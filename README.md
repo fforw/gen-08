@@ -1,3 +1,3 @@
-# Simple Starter
+# gen-08
 
-Simple JS build starter for simple, client-only demos.
+Drawing radial shapes using random hole-y dot grids on a polar matrix and quickhull. 
